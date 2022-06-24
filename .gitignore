@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+kr3_raw.tsv
+kr3.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

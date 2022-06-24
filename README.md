@@ -19,10 +19,20 @@
 raw 데이터가 배달의 민족 사이트에서 제공되지 않기때문에 웹스크래핑을 이용해서 데이터를 긁어왔다.\
 [웹 스크래핑 코드](https://github.com/Cceugene/review/blob/baemin/crawling_baemin.ipynb)
 
+## 시각화
+주문내역의 날짜 데이터를 이용해 날짜/시간별 주문량을 분석했다.
+* 각 메뉴의 요일별 주문량
+<img width="800" alt="요일별 주문량" src="https://user-images.githubusercontent.com/90452911/175068632-1b2cce9f-987f-4158-b590-0177bd64dcc4.PNG">
+
+* 시간대별
+<img width="800" alt="시간대별_주문량" src="https://user-images.githubusercontent.com/90452911/175282168-de403f8b-2ffb-404b-a650-9c18f93d4161.PNG">
+
+
 ## 연관분석 마이닝
 주문 내역에서 뽑은 장바구니 목록을 Apriori를 통해 연관규칙을 얻어냈다.\
 [ARM 코드](https://github.com/Cceugene/review/blob/baemin/ARM_bascket_Tako.ipynb)
 
 ## 리뷰 분석
  Kaggle의 주문 데이터를 이용해 모델을 학습시키고, 앞서 크롤링 한 가게 리뷰 데이터를 사용해 고객들의 반응을 분석했다.\
-[학습에 이용한 Kaggle 데이터](https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)
+[학습에 이용한 Kaggle 데이터](https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)\
+[감성분석](https://github.com/Cceugene/review/blob/baemin/Sentimental_Analysis.ipynb)
