@@ -23,9 +23,11 @@ raw 데이터가 배달의 민족 사이트에서 제공되지 않기때문에 �
 주문내역의 날짜 데이터를 이용해 날짜/시간별 주문량을 분석했다.
 * 각 메뉴의 요일별 주문량
 <img width="800" alt="요일별 주문량" src="https://user-images.githubusercontent.com/90452911/175068632-1b2cce9f-987f-4158-b590-0177bd64dcc4.PNG">
-
 * 시간대별
 <img width="800" alt="시간대별_주문량" src="https://user-images.githubusercontent.com/90452911/175282168-de403f8b-2ffb-404b-a650-9c18f93d4161.PNG">
+* 메뉴별 주문 시간대
+<img width="800" alt="메뉴별 주문 시간대" src="https://user-images.githubusercontent.com/90452911/175574357-9f19a846-2f13-41b4-8746-92acf91a3d3e.PNG">
+
 
 치밥의 경우 주간/주말 주문량의 차이가 적음에도 다른 메뉴에 비해 주문량이 적게 나타났다.
 
