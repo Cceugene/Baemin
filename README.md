@@ -50,16 +50,16 @@
 
 ## 문제1. 치밥과 타코야끼의 특성
 ### 1-1. EDA
-치밥의 주 구매 고객이 누구이며, 배달 주문에서 어떤 특성을 갖는지 밝히기 위해 탐색적 데이터분석을 실행했습니다. 그 결과는 다음과 같습니다.\
+치밥의 주 구매 고객이 누구이며, 배달 주문에서 어떤 특성을 갖는지 밝히기 위해 탐색적 데이터분석을 실행했습니다. 그 결과는 다음과 같습니다.
 <img width="410" alt="치밥 요일별 판매량" src="https://user-images.githubusercontent.com/90452911/182031192-569bfdac-d53d-4ff8-9bb3-a0ba6243764f.PNG">\
-치밥은 평일과 주말의 구분이 없으며, 월요일 주문이 가장 많다.\
+치밥은 평일과 주말의 구분이 없으며, 월요일 주문이 가장 많다.
 
 <img width="410" alt="치밥 시간대별 금액 분포" src="https://user-images.githubusercontent.com/90452911/182031209-d6be971a-acd5-4eab-8e58-026b8e08955f.PNG">\
-치밥의 시간대별 금액 분포를 보면 11시경에 높은 금액의 주문량이 많다.\
+치밥의 시간대별 금액 분포를 보면 11시경에 높은 금액의 주문량이 많다.
 
 <img width="800" alt="메뉴별_진짜전체1" src="https://user-images.githubusercontent.com/90452911/182031280-cca0ae06-9be4-419b-ba80-c8a86accdfa9.PNG">\
 <img width="800" alt="메뉴별_진짜전체2" src="https://user-images.githubusercontent.com/90452911/182031302-75379ffc-e0e6-4c39-bf15-94fffa7b4b17.PNG">\
-시간대별 주문량을 메뉴별로 나누어 보았을 때, '매콤양념', '매콤간장', '고기만 2배' 메뉴는 주문이 적고, 다른 메뉴와 피크타임이 다르다.\
+시간대별 주문량을 메뉴별로 나누어 보았을 때, '매콤양념', '매콤간장', '고기만 2배' 메뉴는 주문이 적고, 다른 메뉴와 피크타임이 다르다.
 
 <img width="800" alt="메뉴별_전체1" src="https://user-images.githubusercontent.com/90452911/182031312-588d1fe9-c1d4-4451-945b-a5d7e37fe4aa.PNG">\
 <img width="800" alt="메뉴별_전체2" src="https://user-images.githubusercontent.com/90452911/182031315-4c02c0e4-12d1-4ff8-b26b-41ad667576bd.PNG">\
