@@ -89,7 +89,7 @@
 
 먼저 Kaggle의 배달 주문 데이터를 이용해 모델을 학습시키고, 앞서 크롤링으로 수집한 가게 리뷰 데이터를 사용해 고객들의 반응을 분석했습니다.\
 [학습에 이용한 Kaggle 데이터](https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)\
-[감성분석 코드](https://github.com/Cceugene/review/blob/baemin/Sentimental_Analysis.ipynb)
+[감성분석 코드](https://github.com/Cceugene/Baemin/blob/master/04_Sentimental_Analysis/Sentimental_Analysis.ipynb)
 
 분석 결과 치밥 메뉴의 부정 리뷰의 키워드를 빈도수로 시각화한 결과 '닭고기'와 '누린내'라는 단어가 나타났습니다. 따라서 치밥의 판매가 저조한 원인이 닭고기의 누린내라는 것을 확인했습니다.
 
